@@ -1,0 +1,15 @@
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\bin\Debug\net7.0\задание 1.exe
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\bin\Debug\net7.0\задание 1.deps.json
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\bin\Debug\net7.0\задание 1.runtimeconfig.json
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\bin\Debug\net7.0\задание 1.dll
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\bin\Debug\net7.0\задание 1.pdb
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\obj\Debug\net7.0\задание 1.csproj.AssemblyReference.cache
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\obj\Debug\net7.0\задание 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\obj\Debug\net7.0\задание 1.AssemblyInfoInputs.cache
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\obj\Debug\net7.0\задание 1.AssemblyInfo.cs
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\obj\Debug\net7.0\задание 1.csproj.CoreCompileInputs.cache
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\obj\Debug\net7.0\задание 1.dll
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\obj\Debug\net7.0\refint\задание 1.dll
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\obj\Debug\net7.0\задание 1.pdb
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\obj\Debug\net7.0\задание 1.genruntimeconfig.cache
+C:\Users\паша\Desktop\дз курсы\C# обучение курсы\GB дз\задание 1\obj\Debug\net7.0\ref\задание 1.dll
